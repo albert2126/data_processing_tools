@@ -1,7 +1,7 @@
 # Data flow processing
 
 This is a set of utilities demonstrating the structure of tools for creating reST documents from source configuration
-files store in Git repositories. Non-working package - demonstration only.
+files stored in Git repositories. Non-working package - demonstration only.
 
 Hierarchy of objects:
 
