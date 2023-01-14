@@ -1,0 +1,12 @@
+.. _ref_data:
+
+Data
+####
+
+This set of documents shows the reference information about all datasets that the projects described in this documentation
+consume or produce.
+To see job reference information, go to :ref:`ref_projects`.
+
+.. toctree::
+   :maxdepth: 1
+

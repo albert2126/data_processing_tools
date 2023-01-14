@@ -1,0 +1,46 @@
+.. _ref_data_${project}_${name}:
+
+${name}
+${h1_underscore}
+
+This document provides the actual properties and relationships of the **${name}** dataset.
+The information is in sync with source code.
+
+.. contents:: In this document:
+   :local:
+   :depth: 1
+
+External resources
+==================
+
+*  :href:`Hive metastore<${hms_url}>`: you will probably need to request access to this resource.
+
+
+Relations
+=========
+
+The following graph displays the **${name}** dataset and related jobs in the **${project}** project:
+
+* The job that produces this dataset if there is such a job in **${project}**
+* The jobs that consume this dataset if there are such jobs in **${project}**
+
+.. container::
+
+   .. raw:: html
+      :file: ${filename}
+
+
+Lineage
+=======
+
+Dataset **${name}** is associated with the following datasets on its input and output sides:
+
+.. container::
+
+   .. raw:: html
+      :file: ${lineage_filename}
+
+
+.. include:: ${inclusion}
+
+

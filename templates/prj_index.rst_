@@ -1,0 +1,18 @@
+.. _ref_projects:
+
+Pipelines
+#########
+
+Here you will find reference information about jobs of all projects included into this documentation.
+You can also refer to additional services for getting additional information about every project component, including
+current version, location (datacenter and cluster), development team, manager, and other:
+
+*  :href:`project<https://.../projectinfo/list>`
+*  :href:`pipeline<https://.../pipelines/jobRegistryDetails>`
+*  :href:`job<https://.../jobs/jobDetails>`
+
+To see dataset reference information, go to :ref:`ref_data`.
+
+.. toctree::
+   :maxdepth: 1
+
